@@ -11,7 +11,7 @@ HANA Backup/DR should be done using SAP tooling (eg: system replication).
 
 Application servers can use Azure Site Recovery.
 
-![_](./images/hana-ha-dr.png)
+![_](images/hana-ha-dr.png)
 
 
 ### Storage Replication
